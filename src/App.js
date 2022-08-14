@@ -1,9 +1,9 @@
+import FormOne from "./Pages/One";
+
 function App() {
   return (
     <div>
-      <h1 className="text-3xl text-red-500 font-bold underline">
-        Hello World!
-      </h1>
+      <FormOne />
     </div>
   );
 }
